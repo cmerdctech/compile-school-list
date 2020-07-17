@@ -1,0 +1,11 @@
+{
+  "name": "compile-school-list",
+  "version": "1.0.0",
+  "description": "assemble various configuration files for file slinger and friends",
+  "main": "compile-school-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TQ White II",
+  "license": "ISC"
+}
